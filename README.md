@@ -1,4 +1,4 @@
-# A Message Board using PHP and a Database
+# A Message Board using PHP and MySQL
 
 Project Description:
 The project4 directory contains the file createDB.sql, which contains the SQL description of the tables: users and posts, that have the following schema:
